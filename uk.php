@@ -36,7 +36,7 @@ function e2l_load_strings () {
   
   // sign in
   'pt--sign-in' => 'Вхід',
-  'er--cannot-write-auth-data' => 'Не вдається записати дані автентификації',
+  'er--cannot-write-auth-data' => 'Не вдається записати дані автентифікації',
 
   // archive
   'pt--nth-year' => '$[year]-й рік',
