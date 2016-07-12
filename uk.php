@@ -23,7 +23,7 @@ function e2l_load_strings () {
   'gs--db-parameters' => 'Параметри бази даних, які надав хостер',
   'gs--ask-hoster-how-to-create-db' => 'Уточніть у хостера, як створити базу, якщо її немає',
   'er--double-check-db-params' => 'Перевірте ще раз реквізити бази',
-  'gs--instantiated-version' => 'Інтсанційована версія',
+  'gs--instantiated-version' => 'Інстанційована версія',
   'pt--installer-loading' => 'Завантаження...',
   'gs--database' => 'База даних',
   'gs--password-for-blog' => 'Пароль для доступу до блогу',
@@ -32,11 +32,11 @@ function e2l_load_strings () {
 
   // diags
   'et--fix-permissions-on-server' => 'Налаштуйте права на сервері',
-  'gs--enable-write-permissions-for-the-following' => 'Будь-ласка, надайте права на запис тут:',
+  'gs--enable-write-permissions-for-the-following' => 'Будь ласка, надайте права на запис тут:',
   
   // sign in
   'pt--sign-in' => 'Вхід',
-  'er--cannot-write-auth-data' => 'Не вдається записати дані аутентификації',
+  'er--cannot-write-auth-data' => 'Не вдається записати дані автентификації',
 
   // archive
   'pt--nth-year' => '$[year]-й рік',
@@ -57,7 +57,7 @@ function e2l_load_strings () {
   'er--error-updating-post' => 'Помилка під час змінення допису',
   'er--error-deleting-post-tag-info' => 'Помилка під час видалення даних про теги допису',
   'er--wrong-datetime-format' => 'Неправильний формат дати-часу. Має бути: «ДД.ММ.РРРР ГГ:ХХ:СС»',
-  'er--cannot-get-post-from-db' => 'Не вдалося вилучити допис із бази',
+  'er--cannot-get-post-from-db' => 'Не вдалося отримати допис із бази',
   'er--images-only-supported' => 'Підтримуються лише зображення',
   'er--cannot-create-thumbnail' => 'Не вдалося створити зменшене зображення',
   'er--cannot-upload' => 'Не вдалося завантажити файл',
@@ -282,7 +282,7 @@ function e2l_load_strings () {
   'gs--e2-autodetects-timezone' => 'Під час публікації часовий пояс зазвичай визначається автоматично. А у разі невдачі використовується обраний тут часовий пояс.',
 
   'tt--from-the-future' => 'Із майбутнього',
-  'tt--just-published' => 'Тільки но',
+  'tt--just-published' => 'Тільки-но',
   'tt--one-minute-ago' => 'Хвилину тому',
   'tt--minutes-ago' => '$[minutes.cardinal] тому',
   'tt--one-hour-ago' => 'Годину тому',
@@ -297,7 +297,7 @@ function e2l_load_strings () {
   'tt--zone-mt' => 'Гірський час',
   'tt--zone-ct' => 'Центральний час',
   'tt--zone-et' => 'Східний час',
-  'tt--zone-gmt' => 'Час за Грінвічем',
+  'tt--zone-gmt' => 'Час за Гринвічем',
   'tt--zone-cet' => 'Центрально-європейский час',
   'tt--zone-eet' => 'Східно-європейский час',
   'tt--zone-msk' => 'Московский час',
