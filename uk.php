@@ -14,7 +14,7 @@ function e2l_load_strings () {
   
   // installer
   'pt--install' => 'Встановлення Егеї',
-  'gs--user-fixes-needed' => 'Хвилинку, треба дещо виправити.',
+  'gs--user-fixes-needed' => 'Так, треба дещо виправити.',
   'gs--following-folders-missing' => 'Не знайдено наступні теки із дистрибутиву рушія:',
   'gs--could-not-create-them-automatically' => 'Створити їх автоматично не вдалося через нестачу прав. Завантажте на сервер повний дистрибутив.',
   'gs--and-reload-installer' => 'І перезавантажте встановлювач',
