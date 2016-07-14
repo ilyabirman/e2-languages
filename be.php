@@ -1,6 +1,6 @@
 <?php
 
-// display_name = Русский
+// display_name = Беларуская
 
 function e2l_load_strings () {
 
